@@ -1,0 +1,3 @@
+dv_bourse_homepage:
+    pattern:  /hello/{name}
+    defaults: { _controller: DvBourseBundle:Default:index }
